@@ -74,9 +74,7 @@
 #### #define in_range_back(i,x,y) for(int i=y;i>=x;i--)
 
 #### /*========== Let's start ===========*/
-####
 #### e4{
 ####     	// solution
-####	
 ####	checkmate;
 #### }
